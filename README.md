@@ -5,7 +5,7 @@
 Welcome to **Stack Assist**  platform for developers seeking answers to their coding questions! Inspired by Stack Overflow, Stack Assist is a comprehensive question-and-answer website designed to help developers of all levels share knowledge, solve problems, and enhance their coding skills. Whether you're a beginner looking for guidance or an experienced developer looking to share your expertise, Stack Assist provides a collaborative environment where you can connect with other developers, learn new things, and grow your skills.
 
 ## **Screenshot**
-Here are some screenshots of ANNADAATA website in action:
+Here are some screenshots of Stack-Assist website in action:
 
 - **Home Page**
   ![Screenshot 2024-06-21 005119](https://github.com/adiitya24/Stack-Assist/assets/124274939/be39ebc5-abb5-4fe6-86ba-409d96830c18)
